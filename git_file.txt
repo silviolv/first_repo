@@ -1,2 +1,2 @@
 First Git file
-Second line
+Second line!
